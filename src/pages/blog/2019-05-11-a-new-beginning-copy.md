@@ -8,4 +8,12 @@ featuredimage: /img/blog-index.jpg
 tags:
   - foxes
 ---
+
+
+
+
 this is the new one
+
+![](/img/blackbird.jpg "a lovely birdy")
+
+we can add text below: bloody hell
